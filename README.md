@@ -2,7 +2,11 @@
 
 Welcome to the **GoodsCab Analysis** project! This repository contains a comprehensive analysis of operational, customer, and financial insights for GoodsCab, aimed at driving data-informed decisions to improve business performance.
 
+## Dashboard and LinkedIn Post
 
+- [**View the Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiNDQ0MzM5OGEtZTc5ZC00YzA2LWJhNzUtNjI5MjQyNjk0ZDY0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+)
+- [**LinkedIn Post**](#)
 
 ## Overview
 
@@ -67,10 +71,7 @@ This analysis was built using:
 - **Dynamic Benchmarks**: Compare actual performance against targets seamlessly.
 - **Responsive Design**: Visuals automatically adjust to filters for granular analysis
 
-## Dashboard and LinkedIn Post
 
-- [**View the Dashboard**](#)
-- [**LinkedIn Post**](#)
 
 ## Insights Discovered
 
