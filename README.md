@@ -4,9 +4,9 @@ Welcome to the **GoodsCab Analysis** project! This repository contains a compreh
 
 ## Dashboard and LinkedIn Post
 
-- [**View the Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiNDQ0MzM5OGEtZTc5ZC00YzA2LWJhNzUtNjI5MjQyNjk0ZDY0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
-)
-- [**LinkedIn Post**](#)
+- [**View the Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiNDQ0MzM5OGEtZTc5ZC00YzA2LWJhNzUtNjI5MjQyNjk0ZDY0IiwidCI6ImM2ZTU0OWIzLTVmNDUt)
+
+- [**LinkedIn Post**](https://www.linkedin.com/posts/harshass_rpc13-goodscabanalysis-dataanalytics-activity-7280978010936094720-0zLh?utm_source=share&utm_medium=member_android)
 
 ## Overview
 
