@@ -1,6 +1,6 @@
-# Goods Cab Analysis 
+# Good Cabs Analysis 
 
-Welcome to the **GoodsCab Analysis** project! This repository contains a comprehensive analysis of operational, customer, and financial insights for GoodsCab, aimed at driving data-informed decisions to improve business performance.
+Welcome to the **GoodCabs Analysis** project! This repository contains a comprehensive analysis of operational, customer, and financial insights for GoodsCab, aimed at driving data-informed decisions to improve business performance.
 
 ## Dashboard and LinkedIn Post
 
@@ -18,7 +18,7 @@ The analysis is categorized into three primary views:
 
 ### **Source of Dataset**
 
-The dataset for this analysis is sourced from **GoodsCab's internal databases**, namely:
+The dataset for this analysis is sourced from **GoodCabs's internal databases**, namely:
 
 1. **`trips_db`**: Contains detailed and aggregated trip data, passenger behavior, and repeat trip metrics for tier-2 cities.
 2. **`targets_db`**: Holds monthly operational targets, including new passenger acquisition goals, trip counts, and customer satisfaction metrics.
